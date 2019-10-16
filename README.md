@@ -59,4 +59,4 @@ Note that the confidence index will return "zero" if it will be cosidered a perf
 And at last, if the recognizer could predict a face, we put a text over the image with the probable id and how much is the "probability" in % that the match is correct ("probability" = 60 - confidence index). If not, an "unknow" label is put on the face.
 
 **MAKE SURE THE CLASSIFIER IS IN THE CODE DIRECTORY**
-(that must be in a directory named "Cascades/", under your project directory).
+(that must be in your project directory).
